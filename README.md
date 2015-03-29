@@ -1,3 +1,2 @@
 # Codeforces
-lol
 Codeforces
