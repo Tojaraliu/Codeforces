@@ -1,3 +1,11 @@
+/*
+统计各种长度的棍的数量
+对于每个长度len，如果是奇数个，并且len-1长度的棍子存在
+那就砍掉一个，剩下偶数个
+最后贪心找到所有答案和。
+03/29/2015
+*/
+
 #include <iostream>
 #include <stdio.h>
 #include <string.h>
